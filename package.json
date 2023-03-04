@@ -1,8 +1,8 @@
 {
-  "name": "hw-06",
+  "name": "goit-react-hw-06-phonebook-",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oksanka15.github.io/hw-06/",
+  "homepage": "https://oksanka15.github.io/goit-react-hw-06-phonebook-/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "@testing-library/jest-dom": "^5.16.3",
