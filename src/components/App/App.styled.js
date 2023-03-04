@@ -10,7 +10,8 @@ export const Button = styled.button`
   border: 0;
   border-radius: .5rem;
   box-sizing: border-box;
-  color: #8A2BE2;
+  color: #9932CC;
+  width: 200px:
   font: 400 "Roboto";
   line-height: 1rem;
   padding: 3px .5rem;

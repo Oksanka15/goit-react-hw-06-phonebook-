@@ -18,9 +18,32 @@ export const AddContact = styled.button`
 width: 200px;
 height: 30px;
 font-size: 18px;
-background-image: linear-gradient(to right, #314755 0%, #26a0da  51%, #314755  100%);
-:hover {
-  color: #fff;
-  border: 1px solid burlywood;
-}     
-`
+background-color: #E6E6FA;
+  border: 0;
+  border-radius: .5rem;
+  box-sizing: border-box;
+  color: #9932CC;
+  width: 200px:
+  font: 400 "Roboto";
+  line-height: 1rem;
+  padding: 3px .5rem;
+  text-align: center;
+  text-decoration: none;
+  text-decoration-thickness: auto;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  &:hover {
+    background-color: #FFF0F5;
+  }
+  &:focus-visible {
+    box-shadow: none;
+  }
+  &:focus {
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+  }
+`;
+    
